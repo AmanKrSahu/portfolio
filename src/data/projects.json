@@ -1,0 +1,88 @@
+{
+  "header": {
+    "pageTitle": "THE ACCIDENTAL ENGINEER'S QUESTIONABLE CREATIONS",
+    "pageNumber": "PAGE A4 (Bugs Included)"
+  },
+  "mainHeadline": {
+    "title": "\"I Built What?!\" – A Collection of Dubious Achievements"
+  },
+  "projects": [
+    {
+      "title": "MindMesh",
+      "subtitle": "Project Management Tool • 2025",
+      "image1": {
+        "alt": "MindMesh interface",
+        "caption": "The dashboard where productivity goes to die (or thrive, depending on who you ask)."
+      },
+      "description": [
+        "A project management tool that somehow manages projects while barely managing itself. Features includes authentication (because security is important, apparently), workspaces where teams can collectively ignore deadlines, tasks CRUD (Create, Read, Update, Delete... mostly Delete) & analytics to graphically display how behind schedule you are",
+        "Built with the MERN stack (MongoDB, Express, React, Node.js) because following trends is easier than original thought. Boasts \"robust data integrity\" which is developer-speak for \"it hasn't lost all our data... yet.\" Additional features include real-time notifications to remind you of meetings you'll ignore, role-based permissions so you can blame the right person when things go wrong."
+      ],
+      "features": {
+        "title": "Questionable Features",
+        "items": [
+          "Google Sign-In (so you can't blame forgetting passwords)",
+          "Roles & Permissions (Owner, Admin, Member... and Scapegoat)",
+          "Invite Members (to share the suffering)",
+          "Filters & Search (to find what you lost)",
+          "Cookie Session Management (because cookies make everything better)"
+        ]
+      },
+      "image2": {
+        "alt": "MindMesh mobile",
+        "caption": "Mobile version for managing your existential crisis on-the-go."
+      },
+      "techStack": {
+        "title": "Tech Stack",
+        "items": [
+          "MongoDB (for storing regrets)",
+          "Express (to express frustration)",
+          "React (to react to bugs)",
+          "Node.js (to nod knowingly at errors)",
+          "TypeScript (to type angrily)"
+        ]
+      }
+    },
+    {
+      "title": "AI-migo",
+      "subtitle": "AI Coding Assistant • 2025",
+      "image1": {
+        "alt": "AI-migo dashboard",
+        "caption": "The interface where you politely ask AI to write your code and pray it works."
+      },
+      "description": [
+        "An AI assistant that writes code while you question your life choices. Key questionable features include component generation (for when typing feels like manual labor), live previews that work approximately 83% of the time (disclaimer: percentage may vary based on moon phases), and Docker sandboxes essentially digital padded rooms for your experimental code.",
+        "Built with Next.js 15 (because version numbers are basically fashion trends) and tRPC (which we've decided stands for \"Terrifyingly Random Programming Concepts\"). The credit system carefully limits how much havoc you can wreak in a single session, think of it as parental controls for AI-generated spaghetti code. Additional \"features\" include error messages that range from \"vaguely helpful\" to \"complete existential crisis.\""
+      ],
+      "features": {
+        "title": "Dubious Capabilities",
+        "items": [
+          "Generates components (that may need debugging)",
+          "Creates apps from prompts (that may not match expectations)",
+          "Provides live previews (of varying accuracy)",
+          "Supports multiple AI models (to increase confusion)",
+          "Cloud sandbox execution (to safely contain disasters)",
+          "Credit system (to ration your disappointment)"
+        ]
+      },
+      "image2": {
+        "alt": "AI-migo code generation",
+        "caption": "Watching AI write code that somehow both impresses and terrifies you."
+      },
+      "techStack": {
+        "title": "Tech Stack",
+        "items": [
+          "Next.js 15 (bleeding edge means band-aids)",
+          "tRPC (type safety is a lie)",
+          "Clerk (for authentication and billing)",
+          "E2B sandboxes (digital padded rooms)",
+          "OpenAI/Anthropic (AI debates)"
+        ]
+      }
+    }
+  ],
+  "viewMore": {
+    "text": "VIEW MORE QUESTIONABLE CODE →",
+    "link": "https://github.com/AmankrSahu?tab=repositories"
+  }
+}

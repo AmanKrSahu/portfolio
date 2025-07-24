@@ -1,0 +1,99 @@
+{
+  "header": {
+    "title": "THE ACCIDENTAL ENGINEER",
+    "pageNumber": "FREE (Like StackOverflow Answers)"
+  },
+  "mainHeadline": {
+    "title": "Lost Control of Life, Gained Full Control of Git",
+    "subtitle": "'I just wanted dark mode,' says local man now drowning in merge conflicts. Experts confirmed, he googled 'How to center a div' and never recovered."
+  },
+  "mainContent": {
+    "image1": {
+      "src": "image1.jpg",
+      "alt": "Developer crying at keyboard",
+      "caption": "Photo taken moments before he yelled, \"It works on my machine!\""
+    },
+    "paragraph1": "In a tragic twist of fate, Aman Sahu a perfectly normal IIIT Nagpur student who pressed F12 in 2021 to disable a website's paywall. This single act of digital rebellion cursed him with what experts call \"The Developer's Curse.\" Today, he's a full-stack developer with approximately 3.5 active brain cells (1.5 dedicated to remembering semicolons), a GitHub streak he guards more fiercely than his WiFi password, and an unhealthy obsession with dark mode extensions. \"I swear I didn't mean to learn Rust,\" he confessed during a recent intervention.",
+    "paragraph2": "When not wrestling with TypeScript generics or pretending to understand blockchain, Aman can be found giving passionate tech talks on subjects he learned about approximately 20 minutes before the presentation. His technical philosophy boils down to \"if it works in localhost, it's production-ready\" and \"Any error can be solved by sufficiently increasing the stack overflow browser tabs.\"",
+    "paragraph3": "Aman's career began when he mistook a terminal for a chatroom. \"I used ls and felt like a hacker,\" he recalls. Since then, he has built tform that's essentially Tinder for skilled professionals (minus the awkward small talk). Convinced recruiters that \"able to fix my bugs\" counts as a skill.",
+    "paragraph4": "When asked about his process, Aman stared blankly at a docker-compose.yml file. \"I just smash keys until the errors change. Sometimes it deploys.\" Critics call this \"the Agile method.\"",
+    "paragraph5": "Despite his \"what's an interface?\" energy, Aman is currently employable. Warning, May ask \"why?\" during standups.",
+    "image2": {
+      "src": "image2.jpg",
+      "alt": "StackOverflow screenshot",
+      "caption": "His most stable relationship is with Ctrl+C/Ctrl+V."
+    }
+  },
+  "sidebar": {
+    "officialTranscript": {
+      "title": "Official Transcript",
+      "items": [
+        {
+          "label": "Known Aliases",
+          "value": "sudo apt-get me a job"
+        },
+        {
+          "label": "Education",
+          "value": "Googled \"how to college\""
+        },
+        {
+          "label": "Special Skills",
+          "value": "Fixing bugs at 3 AM"
+        },
+        {
+          "label": "Weaknesses",
+          "value": "rm -rf commands"
+        },
+        {
+          "label": "Current Status",
+          "value": "Learning Kubernetes to impress my cat"
+        }
+      ]
+    },
+    "achievements": {
+      "title": "Credible Achievements",
+      "items": [
+        {
+          "image": "image3.jpg",
+          "alt": "Chess tournament",
+          "text": "<strong>Top 2% in Cybersecurity & Privacy (NPTEL):</strong> \"I thought it was a chess tournament.\""
+        },
+        {
+          "image": "image4.jpg",
+          "alt": "Hackathon",
+          "text": "<strong>Top 5% in Adobe Hackathon:</strong> Reached by flirting with judges."
+        }
+      ]
+    },
+    "contact": {
+      "title": "Hire Him (Or Don't)",
+      "items": [
+        "amankrsahu003@gmail.com",
+        "Carrier pigeon Ok",
+        "linkedin.com/in/amankrshu",
+        "github.com/AmankrSahu",
+        "References: His cat (if she's awake)."
+      ]
+    }
+  },
+  "secondaryStories": [
+    {
+      "title": "Projects That Compiles",
+      "image": "image5.jpg",
+      "alt": "AI code generation",
+      "text": "From an AI that generates code comments like \"TODO: Fix this later,\" to a blockchain app he still doesn't understand, Aman's work walks the line between \"innovative\" and \"HR violation.\""
+    },
+    {
+      "title": "Leadership? More Like \"Luckership\"",
+      "image": "image6.jpg",
+      "alt": "Team meeting",
+      "text": "As Joint Secretary, he once scheduled an event for \"Yesterday at 4 PM\" by accident. Expected attendance of 10,000+. \"I have no explanation,\" he says."
+    },
+    {
+      "title": "What's Next? Surviving.",
+      "image": "image7.jpg",
+      "alt": "Question mark",
+      "text": "Plans includes finding out what \"state management\" really means. He knows Docker so maybe something else?"
+    }
+  ]
+}

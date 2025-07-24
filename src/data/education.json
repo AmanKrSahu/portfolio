@@ -1,0 +1,69 @@
+{
+  "header": {
+    "pageTitle": "ACADEMIC CHRONICLES OF AN ACCIDENTAL ENGINEER",
+    "pageNumber": "PAGE A3 (Grades May Vary)"
+  },
+  "mainHeadline": {
+    "title": "\"I Swear I Learned Stuff\" – Academic Adventures"
+  },
+  "bachelors": {
+    "title": "Bachelor Of Technology In Computer Science",
+    "institution": "Indian Institute of Information Technology, Nagpur • 2021 - 2025",
+    "imageCaption": "Alleged photographic evidence of subject attending classes. Time stamps may have been edited.",
+    "description": [
+      "According to highly questionable transcripts (and several professors who still have nightmares), the subject somehow survived 4 years of sleep-deprived coding sessions (fueled exclusively by instant noodles and questionable life choices) and approximately 1 existential crisis per semester about whether Computer Science was the right choice or just an elaborate prank by the universe. \"I thought 'Big O notation' was a boy band at first,\" he confessed during a rare moment of honesty.",
+      "His academic career peaked when he discovered Ctrl+C/Ctrl+V could be used for more than just memes, a revelation he describes as \"more impactful than the industrial revolution.\""
+    ],
+    "achievements": {
+      "title": "Suspected Achievements",
+      "items": [
+        "Learned how to Google error messages in 7+ languages",
+        "Developed muscle memory for Ctrl+S",
+        "Discovered that coffee is a food group",
+        "Mastered the art of nodding during lectures while actually debugging code"
+      ]
+    },
+    "examImageCaption": "Subject attempting to understand why his code works in the lab but fails during exams.",
+    "coursework": {
+      "title": "Coursework",
+      "items": [
+        "How to Pretend You Know Algorithms",
+        "Copy-Paste Engineering",
+        "Debugging Through Superstition",
+        "The Art of Last-Minute Submissions",
+        "Napping 101"
+      ]
+    }
+  },
+  "certifications": {
+    "title": "Certified Knowledge",
+    "items": [
+      {
+        "title": "Cyber Security & Privacy",
+        "issuer": "NPTEL • 2024",
+        "description": "Learned to create passwords even he can't remember. Now uses a password manager like a responsible adult (most days)."
+      },
+      {
+        "title": "Fundamentals of Deep Learning",
+        "issuer": "NVIDIA • 2025",
+        "description": "Discovered that \"deep learning\" refers to neural networks, not his existential thoughts about career choices."
+      },
+      {
+        "title": "Advanced Learning Algorithms",
+        "issuer": "Stanford University & Deeplearning.ai • 2022",
+        "description": "Mastered the art of nodding along to Andrew Ng's videos while secretly wondering when lunch is."
+      }
+    ],
+    "viewMoreLink": "https://www.linkedin.com/in/amankrsahu/details/certifications/",
+    "skills": {
+      "title": "Skills Acquired",
+      "items": [
+        "Starting MOOCs with enthusiasm (Week 1)",
+        "Forgetting about MOOCs (Week 2)",
+        "Panic-completing MOOCs before deadline (Week 6)",
+        "Adding to LinkedIn regardless of completion status"
+      ]
+    },
+    "courseImageCaption": "Subject attempting an online course while simultaneously watching anime. Multitasking at its finest."
+  }
+}
