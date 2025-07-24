@@ -1,0 +1,81 @@
+{
+  "header": {
+    "title": "THE ACCIDENTAL ENGINEER'S MISADVENTURES",
+    "pageNumber": "PAGE A2 (Debugging in Progress)"
+  },
+  "mainHeadline": {
+    "title": "\"How Did I Get Here?\" – A Career Retrospective"
+  },
+  "internship": {
+    "title": "Software Engineering Intern",
+    "company": "SMS DataTech, Tokyo, Japan",
+    "duration": "Jan 2025 - Jul 2025",
+    "image1": {
+      "src": "image1.jpg",
+      "alt": "Intern pretending to work",
+      "caption": "Subject attempting to look busy during daily standups. Claims he \"definitely knows what Kafka is.\""
+    },
+    "paragraphs": [
+      "ccording to unverified sources, the subject somehow convinced a company to let him build a <strong>scalable data pipelines</strong> (read: duct-taped Django and Scrapy together) reduced data latency <strong>from 20+ minutes to under 5</strong> (by turning the server off and on again). Also, he created an <strong>AI OCR agent</strong> that \"mostly works if you squint\"",
+      "The internship's greatest mystery remains how he successfully deployed <strong>Tanomee</strong> a freelancing platform despite his admission that he \"just kept clicking buttons until the errors stopped.\" Colleagues report seeing him mutter incantations like \"sudo fix everything\" while deploying, and yet against all odds the platform somehow processed monetary transactions. \"We don't question it anymore,\" said one anonymous coworker. \"We just thank the tech gods and move on.\""
+    ],
+    "achievements": {
+      "title": "Suspiciously Specific Achievements",
+      "items": [
+        "Led development of <strong>Tanomee</strong> freelancing platform (still unsure what \"led\" means)",
+        "Integrated <strong>Kafka-Python</strong> (after 47 StackOverflow tabs)",
+        "Built an <strong>AI Agent</strong> that extracts data from PDFs (and occasionally from the void)",
+        "Managed client communication (translation: sent GIFs in Slack)"
+      ]
+    },
+    "image2": {
+      "src": "image2.jpg",
+      "alt": "Error messages",
+      "caption": "A rare screenshot of his IDE before the inevitable red squiggles appeared."
+    },
+    "technologies": {
+      "title": "Technologies (He Swears He Used)",
+      "items": [
+        "NextJS, Django (mostly copy-pasted)",
+        "Scrapy (for \"web scraping\", aka legal plagiarism)",
+        "Kafka (set up once, never touched again)",
+        "AI/ML (Ctrl+C from GitHub)",
+        "Hope (primary debugging tool)"
+      ]
+    }
+  },
+  "leadership": {
+    "title": "Leadership Roles (Aka Note Taker)",
+    "roles": [
+      {
+        "title": "Joint Secretary | SAC IIITN",
+        "duration": "Aug 2023 - Aug 2024",
+        "description": "Allegedly managed events with <strong>10,000+ participants</strong> while struggling to manage his own sleep schedule. Responsibilities included: Nodding seriously in meetings, Pretending to understand bureaucracy & Smiling through technical difficulties"
+      },
+      {
+        "title": "Management & Marketing Lead | GDSC IIITN",
+        "duration": "Aug 2023 - Dec 2023",
+        "description": "Orchestrated events for <strong>1,200+ students</strong> while somehow keeping attendance sheets more organized than his code comments. Increased social media engagement by <strong>60%</strong> through the strategic use of memes and pretending to understand Instagram algorithms. Became proficient in writing captions that sounded inspirational but were actually copied from motivational cat accounts."
+      },
+      {
+        "title": "Research Team Member | TNP IIITN",
+        "duration": "May 2023 - Jul 2024",
+        "description": "Compiled a database of <strong>500+ companies</strong> while his personal database of job applications remained unanswered. \"Research\" mostly involved: Googling \"best companies to work for\", contacts he'd never message & worked with 30+ students (by forwarding emails)."
+      }
+    ],
+    "image": {
+      "src": "image3.jpg",
+      "alt": "Leadership",
+      "caption": "Subject attempting to look authoritative. Note the car he is driving."
+    },
+    "skills": {
+      "title": "Skills Acquired",
+      "items": [
+        "Nodding at inappropriate times",
+        "Writing emails that sound important",
+        "Delegating tasks he doesn't understand",
+        "Pretending to take minutes (actually doodling)"
+      ]
+    }
+  }
+}
